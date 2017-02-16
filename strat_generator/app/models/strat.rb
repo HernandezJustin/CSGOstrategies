@@ -1,0 +1,2 @@
+class Strat < ApplicationRecord
+end
